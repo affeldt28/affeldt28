@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvin Affeldt</h1>
 <h3 align="center">A developer from Germany</h3>
 
-![affeldt28][views]
-
+![alt text][views]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -86,10 +85,7 @@
 	</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=affeldt28&show_icons=true&locale=en&layout=compact&count_private=true" alt="affeldt28" /></p>
+![alt text][streakstats]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=affeldt28&show_icons=true&locale=en&count_private=true" alt="affeldt28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=affeldt28&count_private=true" alt="affeldt28" /></p>
-
-[views]https://komarev.com/ghpvc/?username=affeldt28&label=Profile%20views&color=brightgreen&style=flat-square
+[views]: https://komarev.com/ghpvc/?username=affeldt28&label=Profile%20views&color=brightgreen&style=flat-square "Profile Views"
+[streakstats]: https://github-readme-streak-stats.herokuapp.com/?user=affeldt28&count_private=true "Streak Stats"
