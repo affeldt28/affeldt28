@@ -15,8 +15,8 @@
 
 ## 📊 Github stats
 <p align="center">
-	<img src="https://github.com/affeldt28/github-stats/blob/master/generated/overview.svg">
-	<img src="https://github.com/affeldt28/github-stats/blob/master/generated/languages.svg">
+	<img src="https://raw.githubusercontent.com/affeldt28/github-stats/generated/overview.svg">
+	<img src="https://raw.githubusercontent.com/affeldt28/github-stats/generated/languages.svg">
 </p>
 
 
