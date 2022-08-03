@@ -9,8 +9,8 @@
 
 
 ## 🔥 Streak stats
-<p align="center" style="pointer-events: none; cursor: default;">
-	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=affeldt28&count_private=true&theme=dark&background=0D1117"></a>
+<p align="center">
+	<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=affeldt28&count_private=true&theme=dark&background=0D1117"></a>
 </p>
 
 ## 📊 Github stats
