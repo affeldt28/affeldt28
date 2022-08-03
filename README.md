@@ -10,12 +10,12 @@
 
 ## 🔥 Streak stats
 <p align="center">
-	<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=affeldt28&count_private=true&theme=dark&background=0D1117"></a>
+	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=affeldt28&count_private=true&theme=dark&background=0D1117"></a>
 </p>
 
 ## 📊 Github stats
 <p align="center">
-	<a href="#" style="pointer-events: none; cursor: default;">
+	<a href="#">
 		<img src="https://raw.githubusercontent.com/affeldt28/github-stats/generated/overview.svg#gh-dark-mode-only">
 		<img src="https://raw.githubusercontent.com/affeldt28/github-stats/generated/languages.svg#gh-dark-mode-only">
 	</a>
