@@ -122,7 +122,7 @@
 ### 🌐 Self-hosting
 
 <p>
-	<img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white">v
+	<img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white">
 	<img alt="Homebridge" src="https://img.shields.io/badge/Homebridge-491F59.svg?logo=homebridge&logoColor=white">
 	<img alt="Nextcloud" src="https://img.shields.io/badge/Nextcloud-0082C9.svg?logo=nextcloud&logoColor=white">
 	<img alt="Pi-hole" src="https://img.shields.io/badge/Pi_hole-96060C.svg?logo=pihole&logoColor=white">
