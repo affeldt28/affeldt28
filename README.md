@@ -150,7 +150,7 @@
 	<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
 	<img alt="K3S" src="https://img.shields.io/badge/K3S-FFC61C.svg?logo=k3s&logoColor=black">
 	<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
-	<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=whit">
+	<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=whit">
 	<img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8.svg?logo=rancher&logoColor=white">
 	<img alt="Remix" src="https://img.shields.io/badge/remix-%23000.svg?logo=remix&logoColor=white">
 	<img alt="Testing Library" src="https://img.shields.io/badge/TestingLibrary-%23E33332?logo=testing-library&logoColor=white">
