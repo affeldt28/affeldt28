@@ -79,6 +79,7 @@
 	<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 	<img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white">
 	<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+	<img alt="Remix" src="https://img.shields.io/badge/remix-%23000.svg?logo=remix&logoColor=white">
 	<img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white">
 	<img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
 	<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black">
@@ -114,6 +115,7 @@
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
 	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
 	<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
+	<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=whit">
 	<img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
 	<img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=black">
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
@@ -131,7 +133,6 @@
 ### 🐧 Operating systems
 
 <p>
-	<img alt="Centos" src="https://img.shields.io/badge/Centos-262577.svg?logo=centos&logoColor=white">
 	<img alt="Fedora CoreOS" src="https://img.shields.io/badge/Fedora_CoreOS-d01766.svg?logo=fedora&logoColor=white">
 	<img alt="Fedora Server" src="https://img.shields.io/badge/Fedora_Server-51A2DA.svg?logo=fedora&logoColor=white">
 	<img alt="macOS" src="https://img.shields.io/badge/macOS-000000.svg?logo=macos&logoColor=white">
@@ -150,9 +151,7 @@
 	<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
 	<img alt="K3S" src="https://img.shields.io/badge/K3S-FFC61C.svg?logo=k3s&logoColor=black">
 	<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
-	<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=whit">
 	<img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8.svg?logo=rancher&logoColor=white">
-	<img alt="Remix" src="https://img.shields.io/badge/remix-%23000.svg?logo=remix&logoColor=white">
 	<img alt="Testing Library" src="https://img.shields.io/badge/TestingLibrary-%23E33332?logo=testing-library&logoColor=white">
 	<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6e9f18?logo=Vitest&logoColor=white">
 </p>
