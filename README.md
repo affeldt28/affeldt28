@@ -10,7 +10,7 @@
 ## 🔥 Streak stats
 
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=affeldt28&count_private=true&theme=dark&background=0D1117">
+	<img src="https://streak-stats.demolab.com/?user=affeldt28&count_private=true&theme=dark&background=0D1117">
 </p>
 
 ## 📊 Github stats
